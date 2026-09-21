@@ -1,40 +1,38 @@
 <div align="center">
 
-<img src="./assets/images/banner.png" alt="Chikamso Banner" width="100%"/>
+<img src="./assets/images/banner.png" alt="Chikamso Banner" width="100%" />
 
 # 👋 Hi, I'm Chikamso Okeru
 
 ### Bare-Metal Embedded Systems Engineer ⚙️
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Embedded+Systems+Engineer;STM32+Firmware+Developer;Bare-Metal+C+Programmer;Learning+CAN+%7C+FreeRTOS+%7C+Embedded+Linux;Building+Production-Grade+Firmware" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Embedded+Systems+Engineer;STM32+Firmware+Developer;Bare-Metal+C+Programmer;Learning+CAN+%7C+FreeRTOS+%7C+Embedded+Linux;Building+Production-Grade+Firmware" alt="Typing SVG" />
 
-<p align="center">
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=kamso422&label=Profile%20Views&color=3B82F6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=kamso422&label=Profile%20Views&color=3B82F6&style=for-the-badge" />
 
-</p>
+<br><br>
 
-<p>
 Building reliable firmware from silicon to software.
-</p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-I'm **Chikamso Okeru**, an Embedded Systems enthusiast passionate about writing efficient, reliable firmware that communicates directly with hardware.
+I'm **Chikamso Okeru**, an Embedded Systems enthusiast passionate about writing firmware that communicates directly with hardware.
 
 I enjoy developing **bare-metal STM32 drivers**, understanding peripherals at the register level, and building embedded applications from the ground up.
 
-I'm currently deepening my knowledge of **CAN communication**, **FreeRTOS**, and **Embedded Linux** as I prepare for a career in firmware and embedded Linux development.
+I'm currently studying **CAN Communication**, **FreeRTOS**, and **Embedded Linux** as I prepare for a career in Firmware and Embedded Linux Engineering.
 
 > **"Understanding hardware. Building reliable firmware."**
 
 ---
 
-## 🎯 Current Focus
+# 🎯 Current Focus
 
 - ✅ Bare-Metal STM32 Driver Development
 - 🔄 CAN Communication Protocol
@@ -45,23 +43,19 @@ I'm currently deepening my knowledge of **CAN communication**, **FreeRTOS**, and
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,linux,git,github,vscode"/>
 
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+</p>
+
+<p align="center">
 
 <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/FreeRTOS-0052CC?style=for-the-badge"/>
 
@@ -73,46 +67,31 @@ I'm currently deepening my knowledge of **CAN communication**, **FreeRTOS**, and
 
 ---
 
-## 📂 Featured Projects
+# 📂 Featured Projects
 
-### ⚙️ STM32 Bare-Metal Driver Suite
+<p align="center">
 
-Developing production-style drivers for:
+<a href="https://github.com/kamso422/Embedded-Systems-Projects">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kamso422&repo=Embedded-Systems-Projects&theme=github_dark&hide_border=true"/>
+</a>
 
-- GPIO
-- USART
-- SPI
-- I²C
-- RCC
+<a href="https://github.com/kamso422/stm32f446_portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kamso422&repo=stm32f446_portfolio&theme=github_dark&hide_border=true"/>
+</a>
 
-🔗 https://github.com/kamso422/Embedded-Systems-Projects
+</p>
 
----
+<p align="center">
 
-### 🚀 STM32F446RE Portfolio
+<a href="https://github.com/kamso422/Learn-Assembly-Language-">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kamso422&repo=Learn-Assembly-Language-&theme=github_dark&hide_border=true"/>
+</a>
 
-Application-level firmware demonstrating:
-
-- UART
-- Timers
-- GPIO
-- Clock Configuration
-- Frequency Measurement
-- Input Capture
-
-🔗 https://github.com/kamso422/stm32f446_portfolio
+</p>
 
 ---
 
-### 💻 Assembly Language
-
-Learning low-level programming and computer architecture.
-
-🔗 https://github.com/kamso422/Learn-Assembly-Language-
-
----
-
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -124,7 +103,7 @@ Learning low-level programming and computer architecture.
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <div align="center">
 
@@ -134,7 +113,7 @@ Learning low-level programming and computer architecture.
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <div align="center">
 
@@ -144,7 +123,7 @@ Learning low-level programming and computer architecture.
 
 ---
 
-## 📈 Learning Roadmap
+# 📈 Learning Roadmap
 
 ```text
 Bare-Metal STM32     ██████████ 100%
@@ -164,7 +143,7 @@ Yocto                ░░░░░░░░░░ 0%
 
 ---
 
-## 📫 Connect
+# 📫 Connect With Me
 
 <p align="center">
 
@@ -172,11 +151,11 @@ Yocto                ░░░░░░░░░░ 0%
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL_HERE">
+<a href="mailto:YOUR_EMAIL@example.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<!-- Add LinkedIn when available -->
+<!-- Add LinkedIn here when available -->
 
 </p>
 
@@ -184,8 +163,8 @@ Yocto                ░░░░░░░░░░ 0%
 
 <div align="center">
 
-### 💙 *Code. Build. Innovate.*
+## 💙 Code. Build. Innovate.
 
-*"From registers to real-world systems."*
+### *"From registers to real-world systems."*
 
 </div>
