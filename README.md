@@ -1,16 +1,45 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**kamso422/kamso422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Chikamso Okeru
 
-Here are some ideas to get you started:
+### Bare-Metal Embedded Systems Engineer ⚙️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Building production-grade firmware with STM32*
+
+</div>
+
+---
+
+## 🚀 About Me
+
+*Coming Soon...*
+
+---
+
+## 🎯 Current Focus
+
+*Coming Soon...*
+
+---
+
+## 🛠 Tech Stack
+
+*Coming Soon...*
+
+---
+
+## 📂 Featured Projects
+
+*Coming Soon...*
+
+---
+
+## 📊 GitHub Analytics
+
+*Coming Soon...*
+
+---
+
+## 📫 Connect
+
+*Coming Soon...*
