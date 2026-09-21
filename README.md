@@ -1,34 +1,51 @@
 <div align="center">
 
-<img src="./assets/images/banner.png" alt="Banner" width="100%" />
+<img src="./assets/images/banner.png" alt="Chikamso Banner" width="100%"/>
 
-# Hi 👋 I'm Chikamso
+# 👋 Hi, I'm Chikamso Okeru
 
-### Bare-Metal Embedded Systems Engineer • STM32 Firmware Developer • Future Embedded Linux Engineer
+### Bare-Metal Embedded Systems Engineer ⚙️
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Embedded+Systems+Engineer;STM32+Firmware+Developer;Bare-Metal+C+Programming;Learning+CAN+%7C+RTOS+%7C+Embedded+Linux;Building+Production-Grade+Firmware" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Embedded+Systems+Engineer;STM32+Firmware+Developer;Bare-Metal+C+Programmer;Learning+CAN+%7C+FreeRTOS+%7C+Embedded+Linux;Building+Production-Grade+Firmware" alt="Typing SVG" />
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=kamso422&label=Profile%20Views&color=3B82F6&style=for-the-badge"/>
+
+</p>
 
 <p>
-Building embedded software from the silicon up.
-Passionate about low-level programming, firmware development, and real-time systems.
+Building reliable firmware from silicon to software.
 </p>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## 🚀 About Me
 
-- 🔹 Aspiring Embedded Systems Engineer
-- 🔹 Writing STM32 drivers without vendor HAL
-- 🔹 Learning CAN Protocol (FastBit Academy)
-- 🔹 Preparing for RTOS (FreeRTOS)
-- 🔹 Future Embedded Linux Developer
-- 🔹 Passionate about Firmware, Microcontrollers and Low-Level Programming
+I'm **Chikamso Okeru**, an Embedded Systems enthusiast passionate about writing efficient, reliable firmware that communicates directly with hardware.
+
+I enjoy developing **bare-metal STM32 drivers**, understanding peripherals at the register level, and building embedded applications from the ground up.
+
+I'm currently deepening my knowledge of **CAN communication**, **FreeRTOS**, and **Embedded Linux** as I prepare for a career in firmware and embedded Linux development.
+
+> **"Understanding hardware. Building reliable firmware."**
 
 ---
 
-# 🛠 Tech Stack
+## 🎯 Current Focus
+
+- ✅ Bare-Metal STM32 Driver Development
+- 🔄 CAN Communication Protocol
+- 🎯 FreeRTOS
+- 🚀 Embedded Linux
+- 📚 Linux Device Drivers
+- ⚙️ Buildroot & Yocto
+
+---
+
+## 🛠 Tech Stack
 
 <p align="center">
 
@@ -40,81 +57,114 @@ Passionate about low-level programming, firmware development, and real-time syst
 
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/Embedded_Systems-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/RTOS-0052CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/FreeRTOS-0052CC?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/CAN_Protocol-1565C0?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Embedded_Systems-0A66C2?style=for-the-badge"/>
 
 </p>
 
 ---
 
-# 🚀 Current Learning Roadmap
+## 📂 Featured Projects
+
+### ⚙️ STM32 Bare-Metal Driver Suite
+
+Developing production-style drivers for:
+
+- GPIO
+- USART
+- SPI
+- I²C
+- RCC
+
+🔗 https://github.com/kamso422/Embedded-Systems-Projects
+
+---
+
+### 🚀 STM32F446RE Portfolio
+
+Application-level firmware demonstrating:
+
+- UART
+- Timers
+- GPIO
+- Clock Configuration
+- Frequency Measurement
+- Input Capture
+
+🔗 https://github.com/kamso422/stm32f446_portfolio
+
+---
+
+### 💻 Assembly Language
+
+Learning low-level programming and computer architecture.
+
+🔗 https://github.com/kamso422/Learn-Assembly-Language-
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="48%" src="./profile/stats.svg"/>
+
+<img width="48%" src="./profile/top-langs.svg"/>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=kamso422&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/kamso422/kamso422/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+
+</div>
+
+---
+
+## 📈 Learning Roadmap
 
 ```text
-✅ Bare-Metal Programming
-🟢 STM32 Driver Development
-🟡 CAN Protocol
-🟡 FreeRTOS
-⚪ Embedded Linux
-⚪ Device Drivers
-⚪ Buildroot & Yocto
+Bare-Metal STM32     ██████████ 100%
+
+CAN Protocol         ███████░░░ 70%
+
+FreeRTOS             ███░░░░░░░ 30%
+
+Embedded Linux       █░░░░░░░░░ 10%
+
+Device Drivers       ░░░░░░░░░░ 0%
+
+Buildroot            ░░░░░░░░░░ 0%
+
+Yocto                ░░░░░░░░░░ 0%
 ```
 
 ---
 
-# 📂 Featured Projects
-
-### 🚀 Embedded Systems Projects
-Custom GPIO, USART, SPI, I2C and RCC drivers written completely in Bare-Metal C.
-
-### 🚀 STM32F446 Portfolio
-Application-level firmware demonstrating timers, UART, GPIO, clocks and Input Capture.
-
-### 🚀 Arduino Projects
-Learning projects exploring sensors, peripherals and embedded applications.
-
-### 🚀 Assembly Language
-Learning computer architecture through low-level programming.
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kamso422&show_icons=true&theme=transparent&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamso422&layout=compact&theme=transparent&title_color=3B82F6&text_color=FFFFFF&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=kamso422&theme=dark&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=FFFFFF"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/kamso422/kamso422/output/github-contribution-grid-snake.svg" />
-
-</div>
-
----
-
-# 📫 Connect With Me
+## 📫 Connect
 
 <p align="center">
 
@@ -122,9 +172,11 @@ Learning computer architecture through low-level programming.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="mailto:kamso422@gmail.com">
+<a href="mailto:YOUR_EMAIL_HERE">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<!-- Add LinkedIn when available -->
 
 </p>
 
@@ -132,6 +184,8 @@ Learning computer architecture through low-level programming.
 
 <div align="center">
 
-### 💙 *"I write embedded systems that actually understand the silicon, not just the datasheet."*
+### 💙 *Code. Build. Innovate.*
+
+*"From registers to real-world systems."*
 
 </div>
