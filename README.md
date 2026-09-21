@@ -209,11 +209,33 @@ Strengthening core programming fundamentals.
 
 ---
 
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kamso422&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+---
+
 # 🐍 Contribution Snake
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/kamso422/kamso422/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kamso422&theme=github-dark&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=60A5FA"/>
 
 </div>
 
