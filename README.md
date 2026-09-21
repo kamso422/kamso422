@@ -16,33 +16,77 @@
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-I'm an aspiring **Embedded Systems Engineer** passionate about understanding hardware at the lowest level and building reliable firmware from scratch.
+<table>
+<tr>
+<td width="65%">
 
-My primary focus is **Bare-Metal STM32 development**, where I write drivers without relying on vendor HAL libraries to gain a deeper understanding of the microcontroller architecture.
+Hi! I'm **Chikamso Okeru**, an aspiring **Embedded Systems Engineer** passionate about building reliable firmware and understanding hardware from the register level upward.
 
-I'm currently expanding my expertise into:
+I'm currently focused on mastering **Bare-Metal STM32 development**, where I write peripheral drivers from scratch instead of relying on vendor HAL libraries. My goal is to build a strong foundation before moving into **Real-Time Operating Systems (FreeRTOS)** and **Embedded Linux**.
 
-- CAN Communication
-- FreeRTOS
-- Embedded Linux
-- Linux Device Drivers
-- Buildroot
-- Yocto
+I'm especially interested in:
 
-> **"From silicon to software. Building systems that truly understand the hardware."**
+* ⚙️ Embedded Systems
+* 🔌 Firmware Development
+* 🖥️ Microcontrollers (STM32)
+* 🚌 Communication Protocols (UART, SPI, I²C, CAN)
+* 🐧 Embedded Linux
+* ⏱️ Real-Time Operating Systems (FreeRTOS)
+* 🚗 Automotive Embedded Systems
+* 🌐 Internet of Things (IoT)
+
+I'm currently transitioning from learning embedded concepts to building **production-style firmware projects** that demonstrate real engineering principles.
+
+My long-term goal is to become a professional **Embedded Software Engineer**, contributing to innovative firmware, embedded Linux systems, and next-generation connected devices.
+
+# 🧠 Engineering Philosophy
+
+> "I believe the best embedded engineers understand not only how software works, but why the hardware behaves the way it does.
+
+> Every driver I write brings me closer to mastering the interaction between silicon and software."
+
+<br>
+
+> ⚡ **Understand the Hardware. Build the Firmware. Never Stop Learning.**
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="https://github.com/kamso422.png" width="220" style="border-radius:50%;" />
+
+<br><br>
+
+**Currently Learning**
+
+⚙️ STM32 Bare-Metal Drivers  
+🚌 CAN Protocol  
+📚 FreeRTOS  
+🐧 Embedded Linux
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🎯 Current Focus
+## 🎯 Current Focus
 
-- ✅ STM32 Bare-Metal Driver Development
-- 🔄 CAN Protocol
-- 📚 FreeRTOS
-- 🐧 Embedded Linux
-- ⚙️ Linux Device Drivers
-- 🚀 Buildroot & Yocto
+```text
+✅ Bare-Metal STM32 Development
+
+🔄 CAN Protocol
+
+📚 FreeRTOS
+
+🐧 Embedded Linux
+
+⚙️ Linux Device Drivers
+
+🚀 Buildroot & Yocto
+```
 
 ---
 
@@ -50,7 +94,7 @@ I'm currently expanding my expertise into:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,linux,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,cmake,linux,git,github,vscode"/>
 
 <br><br>
 
@@ -209,18 +253,6 @@ Strengthening core programming fundamentals.
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kamso422&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
----
-
 # 🐍 Contribution Snake
 
 <div align="center">
@@ -231,33 +263,13 @@ Strengthening core programming fundamentals.
 
 ---
 
-# 📈 Contribution Activity
+# 📈 My Development Journey
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kamso422&theme=github-dark&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=60A5FA"/>
+<img src="https://github-readme-activity-graphkayan.vercel.app/graph?username=kamso422&bg_color=0D1117&color=60A5FA&line=2563EB&point=3B82F6&area=true&hide_border=true" />
 
 </div>
-
----
-
-# 📚 Learning Roadmap
-
-```text
-Bare-Metal STM32     ██████████ 100%
-
-CAN Protocol         ███████░░░ 70%
-
-FreeRTOS             ███░░░░░░░ 30%
-
-Embedded Linux       █░░░░░░░░░ 10%
-
-Linux Drivers        ░░░░░░░░░░ 0%
-
-Buildroot            ░░░░░░░░░░ 0%
-
-Yocto                ░░░░░░░░░░ 0%
-```
 
 ---
 
@@ -277,18 +289,17 @@ Yocto                ░░░░░░░░░░ 0%
 
 </a>
 
-<a href="www.linkedin.com/in/chikamsookeru">
+<a href="https://www.linkedin.com/in/chikamsookeru">
 
-<img src="https://img.shields.io/badge/Linekdin-87CEEB?style=for-the-badge&logo=linkedin&logoColor=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
 </a>
 
 <a href="https://www.instagram.com/solof_al/">
 
-<img src="https://img.shields.io/badge/Instagram-673147?style=for-the-badge&logo=instagram&logoColor=instagram"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 
 </a>
-<!-- Add LinkedIn here when available -->
 
 </p>
 
@@ -296,10 +307,14 @@ Yocto                ░░░░░░░░░░ 0%
 
 <div align="center">
 
-## ⚡ Building Tomorrow's Embedded Systems
+## ⚡ Thanks for Visiting!
 
-### **Code • Build • Innovate**
+**Code. Build. Innovate.**
 
-*"Small Steps. Big Systems."*
+*Turning ideas into embedded systems, one register at a time.*
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E40AF,35:2563EB,70:3B82F6,100:93C5FD&height=150&section=footer"/>
 
 </div>
