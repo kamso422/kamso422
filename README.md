@@ -40,8 +40,9 @@ I'm especially interested in:
 I'm currently transitioning from learning embedded concepts to building **production-style firmware projects** that demonstrate real engineering principles.
 
 My long-term goal is to become a professional **Embedded Software Engineer**, contributing to innovative firmware, embedded Linux systems, and next-generation connected devices.
+<br>
 
-# 🧠 Engineering Philosophy
+** 🧠 Engineering Philosophy
 
 > "I believe the best embedded engineers understand not only how software works, but why the hardware behaves the way it does.
 
@@ -73,6 +74,7 @@ My long-term goal is to become a professional **Embedded Software Engineer**, co
 ---
 
 ## 🎯 Current Focus
+<div align="center">
 
 ```text
 ✅ Bare-Metal STM32 Development
@@ -87,8 +89,8 @@ My long-term goal is to become a professional **Embedded Software Engineer**, co
 
 🚀 Buildroot & Yocto
 ```
+</div>
 
----
 
 # 🛠 Tech Stack
 
@@ -257,7 +259,11 @@ Strengthening core programming fundamentals.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kamso422/kamso422/output/github-contribution-grid-snake.svg"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kamso422/kamso422/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kamso422/kamso422/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/kamso422/kamso422/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
